@@ -1,0 +1,10 @@
+.env
+.venv/
+.audio/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+recordings/.cache/
+recordings/*.wav
+recordings/api_usage.json
+recordings/experiments.csv
