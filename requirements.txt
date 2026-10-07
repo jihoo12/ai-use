@@ -1,0 +1,10 @@
+google-genai
+python-dotenv
+sounddevice
+soundfile
+numpy
+matplotlib
+pandas
+ipykernel
+ipywidgets
+gradio
